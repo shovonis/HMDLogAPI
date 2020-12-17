@@ -1,0 +1,58 @@
+[INFO][2020.12.14 23:28:34:534]::Eye Calibration Not Required!
+[INFO][2020.12.14 23:28:34:639]::Directory Created : D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-0/SampleScene/
+[INFO][2020.12.14 23:28:34:643]::Simulation Started : SampleScene
+[INFO][2020.12.14 23:28:52:813]::Head Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-0/SampleScene/
+[INFO][2020.12.14 23:28:52:819]::Eye Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-0/SampleScene/
+[INFO][2020.12.14 23:28:52:824]::Motion Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-0/SampleScene/
+[INFO][2020.12.14 23:30:53:209]::Eye Calibration Required!
+[DEBUG][2020.12.14 23:31:26:122]::Eye Calibration error: 0
+[INFO][2020.12.14 23:31:26:215]::Directory Created : D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.14 23:31:26:219]::Simulation Started : SampleScene
+[INFO][2020.12.14 23:31:39:616]::Head Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.14 23:31:39:627]::Eye Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.14 23:31:39:628]::Motion Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.15 20:43:36:694]::Eye Calibration Not Required!
+[INFO][2020.12.15 20:43:36:785]::Simulation Started : SampleScene
+[INFO][2020.12.15 20:43:54:930]::Head Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.15 20:43:54:942]::Eye Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.15 20:43:54:946]::Motion Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.15 20:45:00:362]::Eye Calibration Not Required!
+[INFO][2020.12.15 20:45:00:456]::Directory Created : D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.15 20:45:00:459]::Simulation Started : SampleScene
+[INFO][2020.12.15 20:45:07:113]::Head Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.15 20:45:07:126]::Eye Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.15 20:45:07:128]::Motion Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data//SampleScene/
+[INFO][2020.12.15 20:50:12:349]::Eye Calibration Required!
+[DEBUG][2020.12.15 20:50:50:654]::Eye Calibration error: 0
+[INFO][2020.12.15 20:50:50:743]::Directory Created : D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132525606123456773/SampleScene/
+[INFO][2020.12.15 20:50:50:745]::Simulation Started : SampleScene
+[INFO][2020.12.15 20:51:05:146]::Head Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132525606123456773/SampleScene/
+[INFO][2020.12.15 20:51:05:154]::Eye Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132525606123456773/SampleScene/
+[INFO][2020.12.15 20:51:05:156]::Motion Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132525606123456773/SampleScene/
+[INFO][2020.12.15 21:02:05:577]::Eye Calibration Not Required!
+[INFO][2020.12.15 21:02:05:643]::Directory Created : D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132525613255731707/SampleScene/
+[INFO][2020.12.15 21:02:05:645]::Simulation Started : SampleScene
+[INFO][2020.12.15 21:02:21:788]::Head Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132525613255731707/SampleScene/
+[INFO][2020.12.15 21:02:21:796]::Eye Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132525613255731707/SampleScene/
+[INFO][2020.12.15 21:02:21:798]::Motion Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132525613255731707/SampleScene/
+[INFO][2020.12.16 20:20:26:409]::Eye Calibration Required!
+[DEBUG][2020.12.16 20:20:34:265]::Eye Calibration error: 0
+[INFO][2020.12.16 20:20:34:337]::Directory Created : D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526452264059359/SampleScene/
+[INFO][2020.12.16 20:20:34:340]::Simulation Started : SampleScene
+[INFO][2020.12.16 20:20:35:705]::Head Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526452264059359/SampleScene/
+[INFO][2020.12.16 20:20:35:711]::Eye Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526452264059359/SampleScene/
+[INFO][2020.12.16 20:20:35:717]::Motion Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526452264059359/SampleScene/
+[INFO][2020.12.16 20:20:56:404]::Eye Calibration Required!
+[DEBUG][2020.12.16 20:21:34:378]::Eye Calibration error: 0
+[INFO][2020.12.16 20:21:34:574]::Directory Created : D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526452563990118/SampleScene/
+[INFO][2020.12.16 20:21:34:577]::Simulation Started : SampleScene
+[INFO][2020.12.16 20:22:28:414]::Head Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526452563990118/SampleScene/
+[INFO][2020.12.16 20:22:28:422]::Eye Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526452563990118/SampleScene/
+[INFO][2020.12.16 20:22:28:424]::Motion Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526452563990118/SampleScene/
+[INFO][2020.12.16 20:23:32:336]::Eye Calibration Required!
+[DEBUG][2020.12.16 20:24:39:894]::Eye Calibration error: 0
+[INFO][2020.12.16 20:24:40:039]::Directory Created : D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526454123323522/SampleScene/
+[INFO][2020.12.16 20:24:40:042]::Simulation Started : SampleScene
+[INFO][2020.12.16 20:24:53:523]::Head Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526454123323522/SampleScene/
+[INFO][2020.12.16 20:24:53:528]::Eye Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526454123323522/SampleScene/
+[INFO][2020.12.16 20:24:53:530]::Motion Tracking data saved at: D:/Shovon/Projects/Research Projects/Unity_Projects/HMDLogAPI/Assets/Data/DemoParticipant-132526454123323522/SampleScene/
